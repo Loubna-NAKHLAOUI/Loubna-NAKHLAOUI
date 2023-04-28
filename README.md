@@ -4,11 +4,11 @@
     I'm passionate about coding and creating innovative solutions to real-world problems.
     🌱Here are some of the skills I've acquired:
     
-              Programming languages: C,C++,SQL,HTML and CSS, PHP
-              Frameworks: LARAVEL,BOOTSTRAP;
-              Database Management Systems:Oracle Database
-              Operating Systems: Microsoft Windows , LINUX ;
-              Methodologies: MERISE, UML
+              🌱Programming languages: C,C++,SQL,HTML and CSS, PHP
+              🌱Frameworks: LARAVEL,BOOTSTRAP;
+              🌱Database Management Systems:Oracle Database
+              🌱Operating Systems: Microsoft Windows , LINUX ;
+              🌱Methodologies: MERISE, UML
              
 
  📫 You can reach me at loubnanakhlaoui55@gmail.com.
