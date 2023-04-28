@@ -4,7 +4,7 @@
     I'm passionate about coding and creating innovative solutions to real-world problems.
     🌱Here are some of the skills I've acquired:
     
-🌱Programming languages: C,C++,SQL,HTML and CSS, PHP;
+🌱Programming languages: C,C++,Python,SQL,HTML and CSS, PHP;
 🌱Frameworks: LARAVEL,BOOTSTRAP;
 🌱Database Management Systems:Oracle Database;
 🌱Operating Systems: Microsoft Windows , LINUX ;
